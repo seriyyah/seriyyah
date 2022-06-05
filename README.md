@@ -59,9 +59,9 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 </div>
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seriyyah)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seriyyah&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriyyah)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriyyah&show_icons=true&theme=merko&count_private=true&hide=css,javascript,c,tcl,html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **seriyyah/seriyyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
