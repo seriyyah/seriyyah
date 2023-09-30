@@ -24,7 +24,7 @@
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - :telescope: I’m working as a Software Engineer.
 
-- :seedling: I’m currently learning Symfony and practice Vue.js.
+- :seedling: always looking for ways to grow and gain new knowledge in all aspects of my daily life.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergiy-puzikov-93b362208/)
 
