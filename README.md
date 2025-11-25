@@ -26,7 +26,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :seedling: always looking for ways to grow and gain new knowledge in all aspects of my daily life.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/sergiy-puzikov-93b362208/](https://www.linkedin.com/in/serhii-puzikov-93b362208/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-puzikov-93b362208/)
 
 ---
 
